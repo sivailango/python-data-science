@@ -1,0 +1,9 @@
+,age,is_active,name,rate
+0,27.0,True,Alex,5.0
+1,,True,Alan,2.0
+2,34.0,False,Bob,10.0
+3,29.0,True,List,
+4,45.0,False,San,12.0
+5,24.0,True,John,4.0
+6,26.0,True,Yogan,8.0
+7,,False,Jose,5.5
